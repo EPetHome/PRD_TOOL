@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI PRD Suite"
+  short_description: "Run the three-module AI PRD workflow"
+  default_prompt: "Use $ai-prd-suite to generate or validate AI PRD suite deliverables from my module 2 PRD."
